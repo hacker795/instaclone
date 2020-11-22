@@ -11,5 +11,6 @@
 
 > running tools
 + Open new sessions and type command tor
-+ Back to dir multiBF_ig and type bash brute.sh
-+ Youtube channel name : Hacker Squad# instaclone
++ Back to dir instaclone and type bash brute.sh
++ Youtube channel name : Hacker Squad
+# instaclone
