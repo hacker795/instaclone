@@ -1,4 +1,4 @@
-# multiBF_ig
+# Instaclone
 > Feature
 + multi thread
 + Just need username instagram
