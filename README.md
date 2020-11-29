@@ -13,4 +13,5 @@
 + Open new sessions and type command tor
 + Back to dir instaclone and type bash brute.sh
 + Youtube channel name : Hacker Squad
+Whatsapp Group link - https://chat.whatsapp.com/CHdRSXCjRtpBE7v9Nba1y6
 # instaclone
